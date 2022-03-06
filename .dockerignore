@@ -77,6 +77,8 @@ target/
 .venv/
 venv/
 
+.env.db
+
 # PyCharm
 .idea
 
